@@ -16,6 +16,6 @@ The Reviltwin script, with the help of hostapd can pretend it is native network 
 
 ## Installation and usage
 Clone the project and run following command inside the directory of cloned repository
-`python3 reviltwin.py`
+>`python3 reviltwin.py`
 
 Once the script is running, you should enter an option with **search for dependencies and requirements**. Process of Reviltwin will automatically scan for missing requirements and then will try to install them.
