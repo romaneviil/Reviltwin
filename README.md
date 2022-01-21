@@ -1,5 +1,5 @@
 # Reviltwin
-An opensource python script for pentesters that facilitates evil twin attacks against wifi vulnerabilities
+An opensource Python3 script for pentesters that facilitates evil twin attacks against wifi vulnerabilities
 
 Reviltwin uses **hostapd** to create new access point with possibility to configure by itself.
 
