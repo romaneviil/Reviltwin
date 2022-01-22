@@ -9,6 +9,12 @@ It uses **apache** with dnsmasq to create fake spoofed websites with option to c
 
 All packets are sent and received via **Scapy**
 
+## Motivation
+The **Reviltwin** script is meant to simplify evil twin attack against wifi by integrating all its necessary features into one script. The 3 core features needed are:
+**Packet Sniffing**
+**Packet Injection**
+**Access Point Creation**
+
 ## Features
 **All forms of evil twin AP**
 
